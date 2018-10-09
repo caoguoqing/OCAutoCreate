@@ -1,0 +1,14 @@
+[
+    {
+        "proj_path":"/Users/mac/Desktop/wwwww/wwwww.xcodeproj",
+        "parent_path":"Module/Service",
+        "moudels":[
+            {
+                "moudel_name":"DMenuList"
+            },
+            {
+                "moudel_name":"DNodeList"
+            }
+        ]
+    }
+]
